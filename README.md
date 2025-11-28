@@ -1,2 +1,19 @@
-# gaccg.github.io
-Gothenburg Anaesthesia and Critical Care Group
+# Gothenburg Anaesthesia and Critical Care Group
+
+# Members
+
+## Senior Researchers
+
+Fredrik Hessulf
+
+Adam Piasecki
+
+## PhD students
+
+Tobias Siöland
+Sara Lundin
+Anita Szell
+
+## Pre PhD students
+
+Lisa Wiltz
